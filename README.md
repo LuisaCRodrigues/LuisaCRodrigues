@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![Image of Capa](https://i.ibb.co/QMDHfs1/background-git.png)
 
-Estudante de Sistemas de Informação - UNIRIO e Estagiária de UX/UI Designer na M4U. 
+**Estudante de Sistemas de Informação - UNIRIO e Estagiária de UX/UI Designer na M4U. **
+
 Faço projetos como designer e como desenvolvedora front-end, pois gosto de unir esses dois lados: experiência e tecnologia. 
 
 As principais tecnologias que utilizo são: React, Javascript, HTML e CSS
