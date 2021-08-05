@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Image of Capa](https://i.ibb.co/TK4ThHM/background.png)
 
 <!--
 **LuisaCRodrigues/LuisaCRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
