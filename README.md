@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Image of Capa](https://i.ibb.co/TK4ThHM/background.png)
+![Image of Capa](https://i.ibb.co/QMDHfs1/background-git.png)
 
 Estudante de Sistemas de Informação - UNIRIO e Estagiária de UX/UI Designer na M4U. 
 Faço projetos como designer e como desenvolvedora front-end, pois gosto de unir esses dois lados: experiência e tecnologia. 
