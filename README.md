@@ -1,6 +1,11 @@
 ### Hi there 👋
 ![Image of Capa](https://i.ibb.co/TK4ThHM/background.png)
 
+###Estudante de Sistemas de Informação - UNIRIO e Estagiária de UX/UI Designer na M4U. 
+Faço projetos como designer e como desenvolvedora front-end, pois gosto de unir esses dois lados: experiência e tecnologia. 
+
+##As principais tecnologias que utilizo são: React, Javascript, HTML e CSS
+
 <!--
 **LuisaCRodrigues/LuisaCRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
