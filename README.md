@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-Estudante de Sistemas de Informação - UNIRIO e Estagiária de UX/UI Designer na M4U
+Formada em Sistemas de Informação - UNIRIO e Product Designer Pleno na Bemobi
 
 Faço projetos como designer e como desenvolvedora front-end, pois gosto de unir esses dois lados: __experiência e tecnologia.__
 
