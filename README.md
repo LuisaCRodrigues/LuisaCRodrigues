@@ -1,5 +1,5 @@
 # Hi there 👋
-![Image of Capa](https://i.ibb.co/QMDHfs1/background-git.png)
+![Image of Capa](https://ibb.co/rHgQMPJ)
 
 ### Sobre mim
 
